@@ -1,0 +1,8 @@
+#ignore these
+config.py
+__pychache__/
+
+# iPython notebook
+.ipynb_checkpoints
+
+
